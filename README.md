@@ -12,7 +12,7 @@ This repository contains a Jupyter notebook file that reads, cleans, and analyse
     - matplotlib
 
 You can install these using pip if you don't have them:
-`pip install pandas numpy matplotlib seaborn`
+`pip install pandas numpy matplotlib`
 
 2. **Setup**
 - Clone the Repository: Use `git clone https://github.com/AlantheG21/4379_Assignment1.git` to download the project to your local machine.
